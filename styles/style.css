@@ -1,0 +1,159 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background: url(../img/bgg.jpeg) no-repeat rgba(0, 0, 0, 0.5);
+	background-size:cover;
+	background-position:center;
+	 
+}
+
+
+#info {
+	font-family: 'Pirata One', cursive;
+	margin: 0 auto;
+	padding: 0 5%;
+	color: rgb(53, 11, 21);
+
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+h3 {
+	margin: 0 0 1em 0;	
+}
+
+
+header {
+	font-family: 'Pirata One', cursive;
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
+
+header a{
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Niconne', cursive;
+	margin: 15px 0;
+	font-size: 2em;
+	font-weight: normal;
+	letter-spacing: 0.05em;
+	line-height: 0.8em;
+}
+
+h2 {
+	font-size: 1.3em;
+	font-family: 'Great Vibes', cursive;
+	margin: -5px 0 0;
+	font-weight: normal;
+}
+
+
+nav {
+	font-family: 'Niconne', cursive;
+	text-align: center;
+	padding: 10px 0;
+	margin: 20px 0 0;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0 10px;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+}
+
+nav a {
+	font-weight: 800;
+	padding: 15px 10px;
+}
+
+footer {
+	font-family: 'Miltonian Tattoo', cursive;
+	font-size: 0.75em;
+	text-align: center;
+	clear: both;
+	padding-top: 50px;
+	color: #ccc;
+}
+
+.social-icon {
+	width: 20px;
+	height: 20px;
+	margin: 0 5px;
+}
+
+
+
+.profile-photo {
+	display: block;
+	width: 180px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+	float: left;
+}
+
+.details{
+	float: right;
+	margin: 40px 0px;
+}
+.photo{
+	width: 600px;
+	margin: 0 auto;
+}
+.about{
+	clear: both;
+}
+.contact-info {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	font-size: 0.9em;
+}
+
+.contact-info a {
+	font-family: 'Miltonian Tattoo', cursive;font-family: 'Miltonian Tattoo', cursive;
+	display: block;
+	min-height: 30px;
+	background-repeat: no-repeat;
+	background-size: 30px 30px;
+	padding: 0 0 0 30px;
+	margin: 0 0 10px;
+}
+
+body {
+	font-family: 'Miltonian Tattoo', cursive;
+	background-color: rgba(236, 199, 199, 0.932);
+	color:rgb(11, 91, 240);
+}
+
+header {
+	font-family: 'Miltonian Tattoo', cursive;
+	background: #bf008c;
+}
+nav {
+	background: #e8943b;
+}
+h1, h2, h3 {
+	color: #fff;
+	font-family: 'Great Vibes', cursive;
+}
+a {
+	color: #09fcfc;
+}
+nav a, nav a:visited {
+	color: #fff;
+}
+nav a.selected, nav a:hover {
+	color: #0c4646;
+}
